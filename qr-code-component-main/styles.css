@@ -21,7 +21,7 @@ body{
 /* Card */
 .card{
   width: 320px;
-  min-height: 500px;
+  min-height: 499px;
   padding: 16px 16px 24px;
   border-radius: 20px;
   background: #fff;
